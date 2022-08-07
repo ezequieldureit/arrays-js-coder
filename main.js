@@ -26,6 +26,7 @@ const planes = {
     fase3: "\nDisminuyas el consumo de embutidos y carnes ahumadas."
 }
 
+// ARRAYS APLICADOS A NUTRICIONISTAS ASIGNADOS A CADA PLAN
 const nutricionista = [ "Dario Gomez", "Ezequiel Duré", "Franciso Díaz"]
 
 
