@@ -1,0 +1,17 @@
+body {
+    background-image: url(./media/background_4health.jpg);
+    background-size: cover;
+  
+}
+
+
+
+.tituloPrincipal {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(24, 23, 23);
+}
